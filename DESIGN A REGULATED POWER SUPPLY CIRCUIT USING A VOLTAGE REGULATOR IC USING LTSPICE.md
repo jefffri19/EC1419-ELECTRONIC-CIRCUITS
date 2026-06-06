@@ -6,9 +6,14 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
-## Tabulations
+## Circuit Diagram
+<img width="1919" height="427" alt="Screenshot 2026-05-29 115016" src="https://github.com/user-attachments/assets/51228615-02c1-48a9-bd8c-2fdbd6f991c5" />
+
+
 
 ## Graph
+<img width="1913" height="422" alt="Screenshot 2026-05-29 114951" src="https://github.com/user-attachments/assets/04869afe-a4e1-4381-a1b8-d3f38ca9035d" />
+
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
